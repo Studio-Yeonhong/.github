@@ -1,6 +1,6 @@
-# ヨンホン (Yeonhong) - 기술 명세 및 로직 가이드
+# ヨンホン (Yeonhong) - 技術仕様およびロジックガイド
 
-![Bot](https://img.shields.io/badge/bot-2.1.0--Release-hotpink) ![API](https://img.shields.io/badge/api-1.0.0-blue) ![Cache](https://img.shields.io/badge/cache-1.0.0-green)
+![Bot](https://img.shields.io/badge/bot-3.0.0--Beta-hotpink) ![API](https://img.shields.io/badge/api-v3-blue) ![Cache](https://img.shields.io/badge/cache-3.0.0-green)
 
 [🇰🇷 한국어](README.md) | [🇺🇸 English](README.en.md)
 
